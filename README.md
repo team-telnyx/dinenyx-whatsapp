@@ -35,8 +35,8 @@ public/            Static dashboard (HTML + CSS + JS)
 
 ```bash
 # Clone and enter the project
-git clone https://github.com/team-telnyx/telnyx-code-examples.git
-cd telnyx-code-examples/whatsapp-restaurant-reservation-nodejs
+git clone https://github.com/team-telnyx/dinenyx-whatsapp.git
+cd dinenyx-whatsapp
 
 # Install dependencies
 npm install
@@ -100,6 +100,8 @@ npm run edge:ship
 ```
 
 Your app will be available at `https://dinenyx-*.telnyxcompute.com`. Update the webhook URL in the Telnyx Portal to point to this URL.
+
+**Live demo:** [https://dinenyx-4b531b71-d.telnyxcompute.com/](https://dinenyx-4b531b71-d.telnyxcompute.com/)
 
 ## Testing
 
